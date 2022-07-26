@@ -1,5 +1,5 @@
 ![badge](https://img.shields.io/badge/MADE%20WITH-HTML%20%26%20CSS-blue)
-![badge](https://img.shields.io/badge/TIME%20TAKEN-3--4hrs-red)
+![badge](https://img.shields.io/badge/TIME%20TAKEN-5--6hrs-red)
 [![badge](https://img.shields.io/badge/SEE%20DEMO%20-VISIT-green)](https://project1-25722.netlify.app/)
 
 # Project-1
