@@ -2,7 +2,7 @@
 ![badge](https://img.shields.io/badge/TIME%20TAKEN-5--6hrs-red)
 [![badge](https://img.shields.io/badge/SEE%20DEMO%20-VISIT-green)](https://project1-25722.netlify.app/)
 
-# Project-1
+# Street Style Lanfing Page !
 
 - This is my first website made using HTML and CSS.In this project,i faced difficulty in making the navbar, but the positioning of images were easy for me.
 
